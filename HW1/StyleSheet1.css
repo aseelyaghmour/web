@@ -1,0 +1,33 @@
+﻿body
+{
+    background-color:Olive;
+}
+#eng,#AQU
+{
+    color:Yellow;
+}
+#happy,#sad
+{
+    color:White;
+}
+h1,h3
+{
+    color:Black;
+}
+p,li,dd
+{
+    color:White;
+}
+.firstLetter
+{
+    font-family:Arial;
+    font-size: 2em;
+}
+a
+{
+    color:Red;
+}
+dt
+{
+    color:Yellow;
+}
